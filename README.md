@@ -1,7 +1,7 @@
 
 # <img src="https://media.giphy.com/media/swOZAChEoj8vS/giphy.gif?cid=ecf05e47tmoql00l6b8femizpggrr1d4o92gu0bs38c71ozp&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/> Bienvenid@ al GitHub de cake code
 
-![Banner de cake code](![alt text](<Cake Code-2.png>)
+![alt text](<Cake Code-2.png>)
 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
